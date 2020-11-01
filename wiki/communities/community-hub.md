@@ -34,7 +34,7 @@ What do we do?
 
 Have a model, map, or mod that you'd like done? Get in contact with the professionals here.
 
-[Discord](https://discord.gg/4RbcH5G)
+[Discord](https://discord.gg/h8VMkhn)
 
 ---
 
@@ -50,7 +50,7 @@ A place to plan, post, discuss, and get notifications for events in your area.
 
 A League-style tournament for Beat Saber!
 
-[Discord](https://discord.gg/nFJDVqS)
+[Discord](https://discord.gg/rNmazdz)
 [Website](https://beatsaberleague.com/)
 
 ---
@@ -89,8 +89,44 @@ Custom leaderboards and global ranking!
 
 ---
 
-## QuestSaber Community
+## Qosmetics Community
 
-A community focused around providing Custom Sabers from the PC platform for Quest users! We are trying to improve and grow the community of the Quest Custom Sabers (Not asset sabers) and improve the overall experience of the custom sabers for quest such as adding custom animations, textures, and much more!
+Qosmetics Community is a community focused around providing Custom models, including sabers bloqs and walls to the quest! We are striving to improve and grow the community of the Quest Custom Content to a whole new level. Come play your way!
 
-[Discord](https://discord.gg/NXnPYEh)
+[Discord](https://discord.gg/qosmetics)
+
+---
+
+## QuestBoard
+
+We are a quest-focused beat saber community server, dedicated to improving the experience for as many players as we can.
+
+[Discord](https://discord.gg/d6DyW9v)
+[Website](https://www.questboard.xyz)
+
+
+---
+
+## Beat Saber Mapping
+
+The Beat Saber Mapping server is a place for in depth discussion regarding Beat Saber mapping and lighting. A place for community driven constructive feedback on your freshly created maps and lightshows.
+
+[Discord](https://discord.gg/ArT4BTQ)
+
+---
+
+## Saber Factory
+
+Welcome to the Saber Factory server! Here you find all resources dedicated to the Saber Factory mod. Get help with the usage and creation of content, keep in touch with new updates, leave suggestions and much more.
+
+[Discord](https://discord.gg/G9dtW5s)
+
+---
+
+## BeastSaber
+
+Discord server for https://bsaber.com/
+
+[Discord](https://discord.gg/VJZHUbt)
+
+---
